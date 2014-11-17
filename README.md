@@ -8,3 +8,8 @@ Repository for the Data Science specialization
 
 ### This is a tertiary heading
 ###This also
+
+I have a list
+
+* first elements
+* second elements
